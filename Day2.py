@@ -1,4 +1,4 @@
-filePath = open("C:\\Users\\justi\\Documents\\Python Programming\\Advent of Code\\Day2Input.txt", "r")
+filePath = open("C:\\Users\\justi\\Documents\\Python Programming\\AdventOfCode2019\\Day2Input.txt", "r")
 fileString = filePath.read()
 
 def convertToList(fileName):

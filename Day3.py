@@ -1,4 +1,4 @@
-fileName = open('C:\\Users\\justi\\Documents\\Python Programming\\Advent of Code\\Day3Input.txt', 'r')
+fileName = open("C:\\Users\\justi\\Documents\\Python Programming\\AdventOfCode2019\\Day3Input.txt", 'r')
 
 wires = [each.strip() for each in fileName.readlines()]
 wires = [each.split(',') for each in wires]

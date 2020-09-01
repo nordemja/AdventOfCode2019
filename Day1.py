@@ -6,7 +6,7 @@ Creator: Justin Nordeman
 import math
 
 #open file
-fileName = open("C:\\Users\\justi\\Documents\\Python Programming\\Advent of Code\\Day1Input.txt", "r")
+fileName = open("C:\\Users\\justi\\Documents\\Python Programming\\AdventOfCode2019\\Day1Input.txt", "r")
 
 #read the file and make list of int values for each value from file
 intList = [int(x) for x in fileName.readlines()]
